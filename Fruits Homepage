@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html> 
+<style>
+    body {background-color: whitesmoke;
+    
+    }
+    
+    h1 {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 47px;
+    letter-spacing: 6px
+}
+
+</style>
+
+<body>
+<title>
+    Fruits Around the World
+</title>
+
+<h1> 
+    <center> 
+    Fruits Around the World
+    
+    </center>
+</h1>
+<p>
+<a href="https://www.w3schools.com">
+<img src="asia.jpg" alt="Go to W3Schools!" width="350" height="400" border="0">
+</a>
+</p>
+
+</body>
+</html>
